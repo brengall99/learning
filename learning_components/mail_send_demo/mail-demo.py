@@ -11,7 +11,7 @@ EMAIL_PASSWORD: str = os.getenv("MY_PASS")
 stock: str = 'AAPL'
 target: float = 224.59
 current_price: float = 224.05
-email_to: str = 'brengall99@gmail.com'
+email_to: str = 'emailto@gmail.com'
 
 msg = EmailMessage()
 msg['Subject'] = f'{stock} just hit ${target}'
