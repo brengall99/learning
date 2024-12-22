@@ -1,1 +1,1 @@
-This repo contains files and resources used for learning
+Repo for organizing and storing learning materials, files and resources.
