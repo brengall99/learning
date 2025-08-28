@@ -1,0 +1,7 @@
+INFO: Application started.
+WARNING: Database connection slow.
+ERROR: Failed to write to disk. Access denied.
+DEBUG: User logged in.
+Error: A syntax error occurred.
+WARNING: Low memory detected.
+CRITICAL: Server is down.
